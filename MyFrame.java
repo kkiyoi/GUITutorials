@@ -1,13 +1,4 @@
-Main.java
-public class Main {
-  public static void main(String[] args) {
 
-		MyFrame myframe = new MyFrame();
-   
-  }
-}
-
-MyFrame.java
 
 import javax.swing.*;
 import java.awt.event.*;
